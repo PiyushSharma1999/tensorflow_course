@@ -1,1 +1,1 @@
-# tensorflow_course
+# This repository contains the practice notebooks of tensorflow course
